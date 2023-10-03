@@ -1,4 +1,4 @@
-#root {
+/* #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
@@ -39,4 +39,14 @@
 
 .read-the-docs {
   color: #888;
+} */
+
+/* เพิ่ม transition เพื่อทำให้การหมุนของรูปปกดูนุ่มนวลขึ้น */
+/* .rotate {
+  transition: transform 100ms ease-in-out;
 }
+
+/* เพิ่มคลาสใหม่เมื่อ isPlaying เป็น true ให้หมุนรูปปก */
+/* .isPlaying .rotate {
+  transform: rotate(360deg);
+} */
